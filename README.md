@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 🔭 I am Currently a Student at Lovely Professional University<br><br>🌱 I’m a CTF Player😎<br><br>🥅 2025 Goals: Explore more research in Networking and Pentesting, etc...<br><br>⚡ Fun fact: I love to have fun.<br>
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/2261949.png)](https://tryhackme.com/p/ashinrmathew)
 
 
 ## 🌐 Socials:
